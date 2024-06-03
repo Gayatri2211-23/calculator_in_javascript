@@ -1,0 +1,1 @@
+This is a simple calculator implemented in JavaScript that supports basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator takes input from the keyboard & buttons and displays the result in an HTML input field.
